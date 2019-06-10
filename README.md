@@ -1,4 +1,4 @@
-# ANN---Customer-Loyalty-in-Banking-Industry
+# ANN-Customer_Loyalty_in_Banking_Industry
 
 For Linux users:
 
