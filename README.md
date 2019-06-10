@@ -1,5 +1,8 @@
 # ANN-Customer_Loyalty_in_Banking_Industry
 
+## AIM: Create a predictive classification model in deep learning with TensorFlow 1.13
+## Question: Will a customer stay in the bank for the next six months?
+
 For Linux users:
 
 - Download Anaconda installer (Python 3.7 version) here:
